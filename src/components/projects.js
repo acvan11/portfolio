@@ -87,20 +87,20 @@ class Projects extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="col-sm-12">
-						<h1 className="project-name">Car Racing Game</h1>
+						<h1 className="project-name">Ginkgo Financial Planning Web App</h1>
 						</div>
 					</div>
 				{/*break point for multiple size*/}
 					<div className="row">
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 project-img-container">
-							<img src={ProjectOneImg} className="project-img" alt="Project One image, Car Racing"/>
+							<img src={ProjectThreeImg} className="project-img" alt="Project Three image, Ginkgo"/>
 						</div>
 					</div>
 					<div className="row">
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div className="row button-row">
 								<div className="col-sm-6 to-right">
-									<a className="btn btn-dark git-button-left" href="https://angawdi.github.io/Car-Racing-Game/">Live</a>
+									<a className="btn btn-dark git-button-left" href="http://my-ginkgo.herokuapp.com/">Live</a>
 								</div>
 								<div className="col-sm-6">
 									<a className="btn btn-dark git-button-right" href="https://github.com/angawdi/Car-Racing-Game">GitHub</a>
@@ -122,23 +122,23 @@ class Projects extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="col-sm-12">
-						<h1 className="project-name">Car Racing Game</h1>
+						<h1 className="project-name">Wonderland Store</h1>
 						</div>
 					</div>
 				{/*break point for multiple size*/}
 					<div className="row">
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 project-img-container">
-							<img src={ProjectOneImg} className="project-img" alt="Project One image, Car Racing"/>
+							<img src={ProjectFourImg} className="project-img" alt="Project Four image, Wonderland Store"/>
 						</div>
 					</div>
 					<div className="row">
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div className="row button-row">
 								<div className="col-sm-6 to-right">
-									<a className="btn btn-dark git-button-left" href="https://angawdi.github.io/Car-Racing-Game/">Live</a>
+									<a className="btn btn-dark git-button-left" href="/">Live</a>
 								</div>
 								<div className="col-sm-6">
-									<a className="btn btn-dark git-button-right" href="https://github.com/angawdi/Car-Racing-Game">GitHub</a>
+									<a className="btn btn-dark git-button-right" href="https://github.com/acvan11/wonderland-store-Django-Project">GitHub</a>
 								</div>
 							</div>
 						</div>
