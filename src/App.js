@@ -12,7 +12,7 @@ class App extends Component {
         <Header className="header-color" title="An Van" scroll>
             <Navigation>
                 <Link to="/">Home</Link>
-                <Link to="/resume">Resume</Link>
+                <a href="https://drive.google.com/file/d/1S1lGo5EVFefgJ9rOgRJWuvRhsYMZEsEF/view">Resume</a>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
@@ -21,7 +21,7 @@ class App extends Component {
         <Drawer title="An Van">
             <Navigation>
                 <Link to="/">Home</Link>
-                 <Link to="/resume">Resume</Link>
+                 <a href="https://drive.google.com/file/d/1S1lGo5EVFefgJ9rOgRJWuvRhsYMZEsEF/view">Resume</a>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>

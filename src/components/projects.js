@@ -30,7 +30,7 @@ class Projects extends Component {
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div className="row button-row">
 								<div className="col-sm-6 to-right">
-									<a className="btn btn-dark git-button-left" href="https://angawdi.github.io/Car-Racing-Game/">Live</a>
+									<a className="btn btn-dark git-button-left" href="https://acvan11.github.io/Car-Racing-Game/">Live</a>
 								</div>
 								<div className="col-sm-6">
 									<a className="btn btn-dark git-button-right" href="https://github.com/angawdi/Car-Racing-Game">GitHub</a>
@@ -99,11 +99,14 @@ class Projects extends Component {
 					<div className="row">
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div className="row button-row">
-								<div className="col-sm-6 to-right">
-									<a className="btn btn-dark git-button-left" href="http://my-ginkgo.herokuapp.com/">Live</a>
+								<div className="col-sm-4 to-right">
+									<a className="btn btn-dark git-button-left=" href="http://my-ginkgo.herokuapp.com/">Live</a>
 								</div>
-								<div className="col-sm-6">
-									<a className="btn btn-dark git-button-right" href="https://github.com/angawdi/Car-Racing-Game">GitHub</a>
+								<div className="col-sm-4">
+									<a className="btn btn-dark git-button" href="https://github.com/acvan11/project-three-client">Client Side GitHub</a>
+								</div>
+								<div className="col-sm-4">
+									<a className="btn btn-dark git-button" href="https://github.com/acvan11/project-three-server">Server Side GitHub</a>
 								</div>
 							</div>
 						</div>
@@ -135,7 +138,7 @@ class Projects extends Component {
 						<div className="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div className="row button-row">
 								<div className="col-sm-6 to-right">
-									<a className="btn btn-dark git-button-left" href="/">Live</a>
+									<a className="btn btn-dark git-button-left" href="http://wonderlandstore.herokuapp.com/">Live</a>
 								</div>
 								<div className="col-sm-6">
 									<a className="btn btn-dark git-button-right" href="https://github.com/acvan11/wonderland-store-Django-Project">GitHub</a>
